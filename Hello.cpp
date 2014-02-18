@@ -8,6 +8,7 @@ int main()
 {
 
 cout << " Hello World" << endl;
+cout << " Hello my friend GIT !!!" << endl;
 
 return 0;
 
