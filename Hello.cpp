@@ -9,7 +9,8 @@ int main()
 
 cout << " Hello World" << endl;
 cout << " Hello my friend GIT !!!" << endl;
-Cout << " Are you ready for the moment!!! " << endl;
+cout << " Are you ready for the moment!!! " << endl;
+cout << " Common Babe!!! " << endl;
 
 return 0;
 
